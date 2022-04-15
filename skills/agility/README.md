@@ -40,5 +40,6 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 | Falador          | 50                 | 440            | 58.2         | 27,200    | 13                    |
 | Seers Village    | 60                 | 570            | 44.4         | 46,200    | 12                    |
 | Pollnivneach     | 70                 | 890            | 61.2         | 52,300    | 9                     |
+| Priffdinas       | 75                 | 1285           | 74           | 65,000    | 0                     |
 | Rellekka         | 80                 | 780            | 51           | 55,000    | 14                    |
 | Ardougne         | 90                 | 793            | 45.6         | 62,600    | 24                    |
